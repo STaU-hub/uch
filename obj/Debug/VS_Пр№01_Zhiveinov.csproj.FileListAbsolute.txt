@@ -1,0 +1,7 @@
+D:\41-ИС\Живейнов\МАПО_ПР№01_Живейнов\VS_Пр№01_Zhiveinov\bin\Debug\VS_Пр№01_Zhiveinov.exe.config
+D:\41-ИС\Живейнов\МАПО_ПР№01_Живейнов\VS_Пр№01_Zhiveinov\bin\Debug\VS_Пр№01_Zhiveinov.exe
+D:\41-ИС\Живейнов\МАПО_ПР№01_Живейнов\VS_Пр№01_Zhiveinov\bin\Debug\VS_Пр№01_Zhiveinov.pdb
+D:\41-ИС\Живейнов\МАПО_ПР№01_Живейнов\VS_Пр№01_Zhiveinov\obj\Debug\VS_Пр№01_Zhiveinov.csproj.AssemblyReference.cache
+D:\41-ИС\Живейнов\МАПО_ПР№01_Живейнов\VS_Пр№01_Zhiveinov\obj\Debug\VS_Пр№01_Zhiveinov.csproj.CoreCompileInputs.cache
+D:\41-ИС\Живейнов\МАПО_ПР№01_Живейнов\VS_Пр№01_Zhiveinov\obj\Debug\VS_Пр№01_Zhiveinov.exe
+D:\41-ИС\Живейнов\МАПО_ПР№01_Живейнов\VS_Пр№01_Zhiveinov\obj\Debug\VS_Пр№01_Zhiveinov.pdb
